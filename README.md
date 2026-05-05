@@ -1,0 +1,1 @@
+[![CI](https://github.com/EllinaRoman/mocking/actions/workflows/main.yml/badge.svg)](https://github.com/EllinaRoman/mocking/actions/workflows/main.yml)
