@@ -1,0 +1,32 @@
+{
+  "name": "mocking",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/EllinaRoman/mocking#readme",
+  "bugs": {
+    "url": "https://github.com/EllinaRoman/mocking/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EllinaRoman/mocking.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.3",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.3.0",
+    "globals": "^17.6.0",
+    "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "core-js": "^3.49.0"
+  }
+}
