@@ -12,6 +12,12 @@ export default defineConfig([
         ...globals.browser,
         ...globals.jest
       } 
+    },
+    rules: {
+      "quotes": ["error", "single"],
+      "semi": ["error", "always"],
+      "indent": ["error", 4],
+      "space-infix-ops": "error"
     } 
   },
 ]);

@@ -1,3 +1,3 @@
 export default function fetchData() {
-  throw new Error('Mock this!');
+    throw new Error('Mock this!');
 }
